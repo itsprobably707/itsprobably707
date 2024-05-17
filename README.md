@@ -1,5 +1,7 @@
-- 👩🏾‍💻 Hi, I’m @theyreprobablycoding
-- ⭐️ I’m interested in self development and gaming
-- 🌱 I’m currently learning python  
-- ⚡ Fun fact; I'm a monster high fanatic <3
-
+````bash
+  ───────── ౨ৎ ─────────
+☆ meet @theyreprobablycoding ...
+☆ currently a student ~ aspiring tech apprentice !!
+☆ mainly learning python but is also trying to learn C# ❤
+  ───────── ౨ৎ ─────────
+````
