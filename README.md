@@ -2,6 +2,6 @@
   ───────── ౨ৎ ─────────
 ☆ meet @theyreprobablycoding ...
 ☆ currently a student ~ aspiring tech apprentice !!
-☆ mainly learning python but is also trying to learn C# ❤
+☆ mainly learning python but am also trying to learn C# ❤
   ───────── ౨ৎ ─────────
 ````
